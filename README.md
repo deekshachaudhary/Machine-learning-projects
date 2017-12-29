@@ -1,0 +1,1 @@
+I implemented popular Machine learning algorithms like Perceptron Learning Algorithm, Logistic Regression, Bagging, AdaBoost, used Legendre polynomials to study overfitting, and learned concepts like Nearest neighbors algorithm, Support Vector Machines, Kernel trick in SVMs and Neural networks.
